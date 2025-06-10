@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.heading-font{
+  font-family: 'Varela Round', sans-serif;
+}
+
+input{
+  color: rgb(0, 140, 255);
+}
+
+#textArea{
+  min-height: 25vh;
+}
+
+.with{
+  min-width: 20vw;
+}
